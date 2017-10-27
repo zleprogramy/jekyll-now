@@ -3,8 +3,6 @@ layout: post
 title: WannaBeHappy Ransomware
 ---
 
-# WannaBeHappy ransomware
-
 Ten ransomware szyfruje dane użytkownika, a następnie żąda okupu w wysokości $500 w BTC, aby przywrócić pliki. 
 
 Aktywność tego krypto-szantażystę wszedł w drugiej połowie października 2017; Koncentruje się na anglojęzycznych użytkowników, co nie zmienia faktu, że można rozprowadzić tego wirusa na całym świecie. Tak wygląda ekran blokady:
