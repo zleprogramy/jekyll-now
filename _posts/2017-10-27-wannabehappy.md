@@ -32,7 +32,8 @@ Decrypt
 -
 Close
 Thank you for using wannabehappy
-Close```
+Close
+```
 
 
 # Szczegóły techniczne
