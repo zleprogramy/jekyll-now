@@ -5,7 +5,7 @@ title: WannaBeHappy Ransomware
 
 Ten ransomware szyfruje dane użytkownika, a następnie żąda okupu w wysokości $500 w BTC, aby przywrócić pliki. 
 
-Aktywność tego krypto-szantażystę wszedł w drugiej połowie października 2017; Koncentruje się na anglojęzycznych użytkowników, co nie zmienia faktu, że można rozprowadzić tego wirusa na całym świecie. Tak wygląda ekran blokady:
+Ten wirus wyszedł w drugiej połowie października 2017; Koncentruje się na anglojęzycznych użytkowników, co nie zmienia faktu, że można rozprowadzić tego wirusa na całym świecie. Tak wygląda ekran blokady:
 
 ![ekran blokady](https://2.bp.blogspot.com/-D7t_UfLeN5E/WfI3g4aUwEI/AAAAAAAAHk0/V-9r1bAjqaILl37ZHprnlvoGRPpugsjAQCLcBGAs/s320/lock-note.jpg)
 
@@ -46,7 +46,7 @@ Poniżej wyniki badań. Wyniki analiz: Hybrid Analysis >> [VirusTotal](https://w
 Analiza stopnia występowania: niska. Szczegółowe informacje są zbierane w sposób regularny. 
 
 
-Podziękowania dla:
+# Podziękowania dla:
 * https://id-ransomware.blogspot.ru/
 * MalwareHunterTeam
 * Michael Gillespie
