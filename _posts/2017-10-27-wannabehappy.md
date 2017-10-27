@@ -34,6 +34,7 @@ Close
 Thank you for using wannabehappy
 Close```
 
+
 # Szczegóły techniczne
 
 Wirus może rozprzestrzeniać się poprzez przerwanie niezabezpieczonej konfiguracji RDP, za pomocą poczty elektronicznej, spamu i szkodliwych załączników,, exploity itp. 
